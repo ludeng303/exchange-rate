@@ -2,6 +2,8 @@
 
 Select countries to get the exchange rate for a specific amount
 
+Live link: https://ludeng303.github.io/exchange-rate/
+
 ## Project Specifications
 
 - Display UI with 2 select lists for countries and 2 inputs for amounts
