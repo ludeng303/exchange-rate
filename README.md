@@ -2,7 +2,7 @@
 
 Select countries to get the exchange rate for a specific amount
 
-Live link: https://ludeng303.github.io/exchange-rate/
+Live link: https://xiaolu-ignite.github.io/exchange-rate/
 
 ## Project Specifications
 
